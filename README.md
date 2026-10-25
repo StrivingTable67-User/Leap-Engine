@@ -54,7 +54,7 @@ sudo apt install libx11-dev libxrandr-dev libxinerama-dev libxcursor-dev libxi-d
 ```cmake
 include(FetchContent)
 FetchContent_Declare(LeapEngine
-    GIT_REPOSITORY https://github.com/StrivingTable67-User/LeapEngine.git
+    GIT_REPOSITORY https://github.com/StrivingTable67-User/Leap-Engine.git
     GIT_TAG v1.0.0)
 FetchContent_MakeAvailable(LeapEngine)
 ```
@@ -62,7 +62,7 @@ FetchContent_MakeAvailable(LeapEngine)
 **Option B: git submodule or vendored copy**
 
 ```bash
-git submodule add https://github.com/StrivingTable67-User/LeapEngine.git libs/LeapEngine
+git submodule add https://github.com/StrivingTable67-User/Leap-Engine.git libs/LeapEngine
 ```
 
 ```cmake
@@ -77,7 +77,7 @@ project(MyGame LANGUAGES CXX)
 
 include(FetchContent)
 FetchContent_Declare(LeapEngine
-    GIT_REPOSITORY https://github.com/StrivingTable67-User/LeapEngine.git
+    GIT_REPOSITORY https://github.com/StrivingTable67-User/Leap-Engine.git
     GIT_TAG v1.0.0)
 FetchContent_MakeAvailable(LeapEngine)
 

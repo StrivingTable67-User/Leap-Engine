@@ -1,6 +1,7 @@
 # Leap Engine
 
 <img width="250" height="250" alt="Leap_Engine_Logo_Transparent" src="https://github.com/user-attachments/assets/af9d9118-12a5-4eb4-a313-a279295e7ec9" />
+
 Leap Engine is a lightweight, 3D game engine written in C++. It is structured as a library designed to help developers create games and simulations efficiently.
 
 ## Features

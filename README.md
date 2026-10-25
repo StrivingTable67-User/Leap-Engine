@@ -36,9 +36,9 @@ Leap Engine is built from source as part of your own CMake project, so there are
 | Platform | Compiler | Status |
 |----------|----------|--------|
 | Windows 10/11 | MinGW-w64 GCC 14.2.0 | Tested |
-| Linux | GCC | Untested |
+| Linux | GCC | Tested |
 | macOS | Apple Clang | Untested |
-| Windows | MSVC | Untested |
+| Windows | MSVC | Tested |
 
 **Linux only:** GLFW needs the X11 development packages.
 
